@@ -1,5 +1,6 @@
 # Geração procedural de montanhas usando Python e Blender
 Conjunto de scripts escritos em Python para uso no Blender que, a partir de um arquivo de imagem e de um arquivo de texto contendo informações, produzem o mesh de um terreno formado por uma montanha simples e o seu entorno.
+
 ![Mapa de exemplo](https://github.com/degar405/Gera-o-Procedural-De-Montanha/assets/46822609/1fce21a7-0991-4da2-8053-04bb0e2cebcf) ![Terreno gerado](https://github.com/degar405/Gera-o-Procedural-De-Montanha/assets/46822609/493ddc24-15f4-4afb-a1b2-02aa82dcaa95)
 
 Exemplo de terreno gerado com a ferramenta.
